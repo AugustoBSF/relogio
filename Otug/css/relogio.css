@@ -1,0 +1,135 @@
+* {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+    background: blanchedalmond;
+}
+
+
+
+
+.central{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+
+}
+/* .clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 23px;
+    background: rgba(0, 0, 0, 0.274);
+    width: 450px;
+    height: 170px;
+    border-radius: 20px;
+    border: 5px solid rgb(255, 210, 1);
+    font-size: 75px;
+    box-shadow: 5px 6px 6px rgba(151, 0, 0, 0.774);
+} */
+
+.horas #doisPontos {
+    font-size: 35px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.data{
+    width: 400px;
+    height: auto;
+    background: rgba(255, 255, 255, 0.315);
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.horas {
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    background: rgba(255, 255, 255, 0.315);
+justify-content: center;
+font-size:  30px;
+}
+
+/* .Menssagem{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+font-size: 35px;
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .night {
+    background: url('../img/praiaNoite.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.afternoon {
+    background: url('../img/praiaTarde.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.moorning {
+    background: url('../img/praiaManha.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+} */
